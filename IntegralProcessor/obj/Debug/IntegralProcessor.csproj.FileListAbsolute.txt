@@ -1,0 +1,7 @@
+C:\Users\Константин\source\repos\IntegralProcessor\IntegralProcessor\bin\Debug\IntegralProcessor.exe.config
+C:\Users\Константин\source\repos\IntegralProcessor\IntegralProcessor\bin\Debug\IntegralProcessor.exe
+C:\Users\Константин\source\repos\IntegralProcessor\IntegralProcessor\bin\Debug\IntegralProcessor.pdb
+C:\Users\Константин\source\repos\IntegralProcessor\IntegralProcessor\obj\Debug\IntegralProcessor.csproj.CoreCompileInputs.cache
+C:\Users\Константин\source\repos\IntegralProcessor\IntegralProcessor\obj\Debug\IntegralProcessor.exe
+C:\Users\Константин\source\repos\IntegralProcessor\IntegralProcessor\obj\Debug\IntegralProcessor.pdb
+C:\Users\Константин\source\repos\IntegralProcessor\IntegralProcessor\obj\Debug\IntegralProcessor.csprojAssemblyReference.cache
